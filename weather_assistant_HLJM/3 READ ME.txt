@@ -1,0 +1,13 @@
+Weather Assistant
+
+1. Navigate to the project directory:
+    ```bash
+    cd weather_assistant_HLJM
+    ```
+
+2. **Preview the application locally:
+    ```bash
+    reflex run
+    ```
+
+3. App running at: http://localhost:3000
